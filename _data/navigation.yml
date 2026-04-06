@@ -17,10 +17,6 @@
   type: page
   banner: "uploads/sites/5/2020/01/cowboy-bebop-300x169-1.gif"
 
-- slug: "sample-page"
-  title: "Sample Page"
-  type: page
-
 - slug: "syllabus"
   title: "Syllabus"
   type: page
