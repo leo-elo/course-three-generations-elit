@@ -1,0 +1,37 @@
+title: "Three Generations of Electronic Literature"
+description: "English 3300: Spring 2019"
+baseurl: "/course-three-generations-elit"
+url: "https://leo-elo.github.io"
+
+markdown: kramdown
+permalink: /:slug/
+
+theme: null
+plugins: []
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
+  - .claude/
+
+collections:
+  pages:
+    output: true
+    permalink: /:slug/
+  posts_col:
+    output: true
+    permalink: /:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts_col"
+    values:
+      layout: "post"
