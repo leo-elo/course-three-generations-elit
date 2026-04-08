@@ -1,138 +1,117 @@
-# Auto-generated navigation
 - slug: "blog"
   title: "Blog"
-  type: page
-
+  type: "page"
 - slug: "course-calendar"
   title: "Course Calendar"
-  type: page
-
+  type: "page"
 - slug: "major-assignment-1"
   title: "Major Assignment #1"
-  type: page
+  type: "page"
   banner: "uploads/sites/5/2020/01/pepesilvia.jpg"
-
 - slug: "research-paper"
   title: "Research Paper"
-  type: page
+  type: "page"
   banner: "uploads/sites/5/2020/01/cowboy-bebop-300x169-1.gif"
-
 - slug: "syllabus"
   title: "Syllabus"
-  type: page
-
+  type: "page"
 - slug: "welcome"
   title: "Welcome"
-  type: page
-
+  type: "page"
+- type: "header"
+  term: "Spring 2019"
 - slug: "hello-world-2"
   title: "Hello students!"
-  type: post
+  type: "post"
   date: "2019-01-03"
   banner: "uploads/sites/5/2019/01/hugoautomaton2-300x168-1.gif"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-1-startup"
   title: "Week 1: Startup"
-  type: post
+  type: "post"
   date: "2019-01-17"
   banner: "uploads/sites/5/2019/01/rettberg-book.jpg"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-2-combinatory-poetics"
   title: "Week 2: Combinatory Poetics"
-  type: post
+  type: "post"
   date: "2019-01-22"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-3-writing-writing-machines"
   title: "Week 3: Writing Writing Machines"
-  type: post
+  type: "post"
   date: "2019-01-29"
   banner: "uploads/sites/5/2019/01/ferrantimark1.jpeg"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-4-introduction-to-hypertext"
   title: "Week 4: Introduction to Hypertext"
-  type: post
+  type: "post"
   date: "2019-02-05"
   banner: "uploads/sites/5/2019/02/wpid14-wpid-Bush-Memex-lg1.jpg"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-5-hypertext-and-interactive-fiction"
   title: "Week 5: Hypertext and Interactive Fiction"
-  type: post
+  type: "post"
   date: "2019-02-11"
   banner: "uploads/sites/5/2019/02/adventure-map.gif"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-6-interactivity-in-electronic-literature"
   title: "Week 6: Interactivity in Electronic Literature"
-  type: post
+  type: "post"
   date: "2019-02-19"
   banner: "uploads/sites/5/2019/02/stanleyparable.png"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-7-writers-readers-players-wreaders"
   title: "Week 7: Writers, Readers, Players, Wreaders"
-  type: post
+  type: "post"
   date: "2019-02-26"
   banner: "uploads/sites/5/2019/02/choice-300x168-1.gif"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-8-moving-language"
   title: "Week 8: Moving Language"
-  type: post
+  type: "post"
   date: "2019-03-05"
   banner: "uploads/sites/5/2019/03/northbynorthwest-300x167-1.gif"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-9-videopoetry"
   title: "Week 9: Videopoetry"
-  type: post
+  type: "post"
   date: "2019-03-12"
   banner: "uploads/sites/5/2019/03/I-TRIED-540.gif"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-10-kinetic-writing"
   title: "Week 10: Kinetic Writing"
-  type: post
+  type: "post"
   date: "2019-03-19"
   banner: "uploads/sites/5/2019/03/lonely-small.gif"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-11-into-the-net"
   title: "Week 11: Into the Net"
-  type: post
+  type: "post"
   date: "2019-03-26"
   banner: "uploads/sites/5/2019/03/boyfriendback.gif"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-12-social-media-performances"
   title: "Week 12: Social Media Performances"
-  type: post
+  type: "post"
   date: "2019-04-02"
   banner: "uploads/sites/5/2019/04/fixurl8tionship.jpg"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-13-bots"
   title: "Week 13: Bots!"
-  type: post
+  type: "post"
   date: "2019-04-09"
   banner: "uploads/sites/5/2019/04/helbotica1.jpg"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "weeks-14-15-digital-writing-in-an-analog-world"
   title: "Weeks 14 &amp; 15: Digital Writing in an Analog World"
-  type: post
+  type: "post"
   date: "2019-04-23"
   banner: "uploads/sites/5/2019/04/agrippa-62-63-ms.jpg"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
 - slug: "week-16-the-past-present-and-future-of-electronic-literature"
   title: "Week 16: The Past, Present, and Future of Electronic Literature"
-  type: post
+  type: "post"
   date: "2019-05-01"
   banner: "uploads/sites/5/2019/05/week16.png"
-  categories: ["Assignments"]
-
+  categories: "[\"Assignments\"]"
